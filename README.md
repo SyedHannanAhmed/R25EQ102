@@ -13,3 +13,17 @@ Hello! My name is [Your Name]. I am currently studying [Your Course]. I am inter
 ## My Goal
 
 - Goal: Contribute to open source
+
+## Projects
+
+1. Portfolio Website
+
+A personal portfolio website created using HTML, CSS and JavaScript to showcase my skills, projects and achievements.
+
+2. C/C++ Programming
+
+Practiced programming concepts, problem-solving, functions, pointers and dynamic memory allocation using C and C++.
+
+3. SQL Practice
+
+Practiced SQL queries, database creation, table operations, joins and nested subqueries.
