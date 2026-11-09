@@ -5,3 +5,7 @@ Hello! My name is [Your Name]. I am currently studying [Your Course]. I am inter
 ## Skills learning
 
 -Learning python
+
+## My Interests
+
+- Interested in cloud computing
