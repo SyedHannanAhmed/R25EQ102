@@ -9,3 +9,7 @@ Hello! My name is [Your Name]. I am currently studying [Your Course]. I am inter
 ## My Interests
 
 - Interested in cloud computing
+
+## My Goal
+
+- Goal: Contribute to open source
